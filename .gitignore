@@ -1,2 +1,4 @@
-# Data/
+Data/processed/RF
+Data/processed/urldata-v2-noEquals
+Data/processed/urldata-v3-enhanced
 venv/
